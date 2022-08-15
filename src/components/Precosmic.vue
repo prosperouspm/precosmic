@@ -14,13 +14,10 @@ body {
 }
 
 .text {
-    position: absolute;
-    top: 50%; 
-    right: 50%;
-    transform: translate(50%,-50%);
+    text-align: center;
     text-transform: uppercase;
     font-family: verdana;
-    font-size: 12em;
+    font-size: 6em;
     font-weight: 700;
     color: #f5f5f5;
     text-shadow: 1px 1px 1px #919191,
