@@ -10,10 +10,11 @@ import { ref } from 'vue'
 
 <style scoped>
 body {
-    background-color: #c4c4c4; 
+    background-color: #a4a4a4; 
 }
 
 .text {
+    margin-top: 47%;
     text-align: center;
     text-transform: uppercase;
     font-family: verdana;
