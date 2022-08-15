@@ -14,7 +14,7 @@ body {
 }
 
 .text {
-    margin-top: 47%;
+    margin-top: 10%;
     text-align: center;
     text-transform: uppercase;
     font-family: verdana;
