@@ -13,7 +13,27 @@ import Precosmic from './components/Precosmic.vue'
 
 <style>
 body {
-    background-color: seagreen; 
+    background-color: aquamarine;
+  background-image: 
+    radial-gradient(closest-side, rgba(0, 255, 0, 1), rgba(0, 0, 255, 0)),
+    radial-gradient(closest-side, rgba(0, 0, 255, 1), rgba(128, 0, 128, 0)),
+    radial-gradient(closest-side, rgba(128, 0, 128, 1), rgba(0, 128, 0, 0)),
+    radial-gradient(closest-side, rgba(0, 128, 0, 1), rgba(0, 0, 255, 0)),
+    radial-gradient(closest-side, rgba(0, 0, 255, 1), rgba(128, 0, 128, 0));
+  background-size: 
+    130vmax 130vmax,
+    80vmax 80vmax,
+    90vmax 90vmax,
+    110vmax 110vmax,
+    90vmax 90vmax;
+  background-position:
+    -80vmax -80vmax,
+    60vmax -30vmax,
+    10vmax 10vmax,
+    -30vmax -10vmax,
+    50vmax 50vmax;
+  background-repeat: no-repeat;
+  animation: 30s movement linear infinite;
 }
 
 #app {
