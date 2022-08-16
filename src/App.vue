@@ -13,9 +13,9 @@ import Precosmic from './components/Precosmic.vue'
 
 <style>
 body {
-    background-color: aquamarine;
+    background-color: seagreen;
   background-image: 
-    radial-gradient(closest-side, rgba(0, 255, 0, 1), rgba(0, 0, 255, 0)),
+    radial-gradient(closest-side, rgba(0, 128, 0, 1), rgba(0, 0, 255, 0)),
     radial-gradient(closest-side, rgba(0, 0, 255, 1), rgba(128, 0, 128, 0)),
     radial-gradient(closest-side, rgba(128, 0, 128, 1), rgba(0, 128, 0, 0)),
     radial-gradient(closest-side, rgba(0, 128, 0, 1), rgba(0, 0, 255, 0)),
