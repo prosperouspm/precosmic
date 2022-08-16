@@ -10,7 +10,7 @@ import { ref } from 'vue'
 
 <style scoped>
 body {
-    background-color: #a4a4a4; 
+    background-color: #8cf3ba; 
 }
 
 .text {
