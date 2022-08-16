@@ -10,6 +10,7 @@ import { ref } from 'vue'
 
 <style scoped>
 .text {
+    z-index: 10;
     margin-top: 10%;
     text-align: center;
     text-transform: uppercase;

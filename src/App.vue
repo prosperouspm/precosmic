@@ -44,8 +44,6 @@ body::after {
   height: 100%;
   top: 0;
   left: 0;
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
 }
 
 @keyframes movement {
