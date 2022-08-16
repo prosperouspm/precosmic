@@ -13,7 +13,7 @@ import Precosmic from './components/Precosmic.vue'
 
 <style>
 body {
-    background-color: black;
+    background-color: lightgoldenrodyellow;
   background-image: 
     radial-gradient(closest-side, rgba(0, 128, 0, 1), rgba(0, 0, 255, 0)),
     radial-gradient(closest-side, rgba(0, 0, 255, 1), rgba(128, 0, 128, 0)),
@@ -33,7 +33,7 @@ body {
     -30vmax -10vmax,
     50vmax 50vmax;
   background-repeat: no-repeat;
-  animation: 32s movement linear infinite, 57s colorchange infinite;
+  animation: 32s movement linear infinite, 157s colorchange infinite;
 }
 
 body::after {
