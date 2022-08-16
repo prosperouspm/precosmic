@@ -9,10 +9,6 @@ import { ref } from 'vue'
 </template>
 
 <style scoped>
-body {
-    background-color: #8cf3ba; 
-}
-
 .text {
     margin-top: 10%;
     text-align: center;
