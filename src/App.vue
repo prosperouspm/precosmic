@@ -13,7 +13,7 @@ import Precosmic from './components/Precosmic.vue'
 
 <style>
 body {
-    background-color: lightgoldenrodyellow;
+    background-color: white;
   background-image: 
     radial-gradient(closest-side, rgba(0, 128, 0, 1), rgba(0, 0, 255, 0)),
     radial-gradient(closest-side, rgba(0, 0, 255, 1), rgba(128, 0, 128, 0)),
