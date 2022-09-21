@@ -8,7 +8,7 @@ const About = { template: '<div>About</div>' }
 
 
 export const router = createRouter({
-    history: createHistory(process.env.VUE_ROUTER_BASE),
+    history: createWebHistory(),
   routes: [
     { path: '/', component: Precosmic },
     { path: '/kimono', component: Kimono },
