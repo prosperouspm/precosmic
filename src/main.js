@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-//import ZText from '@namchee/vue-ztext';
+import { router } from './router'
 
-//app.use(ZText);
-createApp(App).mount('#app')
+const app = createApp(App).use(router)
+app.mount('#app')
