@@ -9,6 +9,7 @@ import Precosmic from './components/Precosmic.vue'
   <!--<img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Hello Vue 3 + Vite" />-->
   <Precosmic />
+  <router-view></router-view>
 </template>
 
 <style>
