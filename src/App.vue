@@ -5,8 +5,8 @@
 </script> -->
 
 <template>
-  <!--<img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + Vite" />-->
+  <img alt="Precosmic Inc. logo" src="./assets/logo.png" />
+  <!-- <HelloWorld msg="Hello Vue 3 + Vite" />-->
   <!-- <Precosmic /> -->
 
   <router-view></router-view>
@@ -45,6 +45,7 @@
   };
   </script>
 
+<!-- 
 <style>
   #app {
     font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -147,4 +148,4 @@ body::after {
       40vmax 60vmax;
   }
 }
-</style>
+</style> -->
