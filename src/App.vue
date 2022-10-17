@@ -5,7 +5,7 @@
 </script> -->
 
 <template>
-  <img alt="Precosmic Inc. logo" src="./assets/logo.png" />
+  <!-- <img alt="Precosmic Inc. logo" src="./assets/logo.png" /> -->
   <!-- <HelloWorld msg="Hello Vue 3 + Vite" />-->
   <!-- <Precosmic /> -->
 
@@ -45,7 +45,7 @@
   };
   </script>
 
-<!-- 
+
 <style>
   #app {
     font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -148,4 +148,4 @@ body::after {
       40vmax 60vmax;
   }
 }
-</style> -->
+</style> 
