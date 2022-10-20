@@ -3,7 +3,8 @@
 </script>
 
 <template>
-  <h1 class="text">Precosmic</h1>
+  <img alt="Precosmic Inc. logo" src="./assets/logo.png" />
+  <!-- <h1 class="text">Precosmic</h1> -->
 </template>
 
 <style scoped>
