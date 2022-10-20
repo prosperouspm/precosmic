@@ -34,9 +34,10 @@
 } */
 
 .logo {  
-    text-align: center;
-    max-width:80%;
-    height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
 }
 
 </style>
