@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <img alt="Precosmic Inc. logo" src="../assets/logo.png" />
+  <img class="logo" alt="Precosmic Inc. logo" src="../assets/logo.png" />
   <!-- <h1 class="text">Precosmic</h1> -->
 </template>
 
@@ -31,6 +31,12 @@
     1px 22px 10px rgba(16,16,16,0.2),
     1px 25px 35px rgba(16,16,16,0.2),
     1px 30px 60px rgba(16,16,16,0.4);
+}
+
+.logo {  
+    text-align: center;
+    max-width:80%;
+    height:auto;
 }
 
 </style>
