@@ -8,7 +8,7 @@
 </template>
 
 <style scoped>
-.text {
+/* .text {
     z-index: 10;
     margin-top: 10%;
     text-align: center;
@@ -31,7 +31,7 @@
     1px 22px 10px rgba(16,16,16,0.2),
     1px 25px 35px rgba(16,16,16,0.2),
     1px 30px 60px rgba(16,16,16,0.4);
-}
+} */
 
 .logo {  
     text-align: center;

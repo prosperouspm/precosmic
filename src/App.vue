@@ -47,7 +47,7 @@
 
 
 <style>
-  #app {
+  /* #app {
     font-family: Avenir, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -147,5 +147,5 @@ body::after {
       -10vmax 10vmax,
       40vmax 60vmax;
   }
-}
+} */
 </style> 
